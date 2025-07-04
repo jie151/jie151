@@ -1,4 +1,6 @@
 ### Hi there 👋
+🎓 Currently a master's student at National Chung Cheng University, Taiwan.  
+🔐 Researching Secure Multi-Party Computation (MPC) and compiler infrastructure using Clang/LLVM.  
 
 <!--
 **jie151/jie151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
